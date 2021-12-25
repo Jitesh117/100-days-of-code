@@ -1,11 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 24th, 2020
+### Day 0: December 24th, 2021
 
 **Today's Progress**: Set up the repository on my local machine.Learnt some new git commands while doing this.
 Deployed the landing page of my website.
 
-**Thoughts**: Although the website is up and running well, I really need to learn the core js skills to really level up my frontedn skills game
+**Thoughts**: Although the website is up and running well, I really need to learn the core js skills to really level up my frontend skills game
+
 
 **Link(s) to work**: [My website](https://jitesh117.me/)
+
+### Day 1: December 25th, 2021
+
+**Today's Progress**: Completed my third frontendmentor challenge and posted the solution to its website and to my github account.
+
+Learnt to use different flexbox styles for mobile and desktop designs.
+
+**Thoughts**:The solution is working and is responsive,but still I think I need to learn more about breaking points in responsive web designing
+
+**Link to work**: [Frontendmentor Solutions](http://jitesh117.me/3-column-preview/)
 
