@@ -27,6 +27,5 @@ Learnt to use different flexbox styles for mobile and desktop designs.
 Learnt javascript variables and data types using codedamn's course (Essentials of javascript)
 
 
-
 **Link to work**: [Github repo](https://github.com/Jitesh117/100-days-of-code)
 
