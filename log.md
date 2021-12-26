@@ -20,3 +20,13 @@ Learnt to use different flexbox styles for mobile and desktop designs.
 
 **Link to work**: [Frontendmentor Solutions](http://jitesh117.me/3-column-preview/)
 
+### Day 2: December 26th, 2021
+
+**Today's Progress**: Learnt linkedlist and its implementation in c and cpp. It brushed up my knowledge about pointers.
+
+Learnt javascript variables and data types using codedamn's course (Essentials of javascript)
+
+
+
+**Link to work**: [Github repo](https://github.com/Jitesh117/100-days-of-code)
+
