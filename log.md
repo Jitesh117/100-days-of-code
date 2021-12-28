@@ -29,3 +29,21 @@ Learnt javascript variables and data types using codedamn's course (Essentials o
 
 **Link to work**: [Github repo](https://github.com/Jitesh117/100-days-of-code)
 
+### Day 3: December 27th, 2021
+
+**Today's Progress**: Learnt how to reverse a linked list itereatively and recursively.
+
+**Link to work**: [Github repo](https://github.com/Jitesh117/100-days-of-code)
+
+### Day 4: December 28th, 2021
+
+**Today's Progress**: Completed the html of my fourth frontendmentor challenge using semantic html tags
+
+Started with responsive web design using mobile first approach.
+
+
+**Link to work**: [Github repo](https://github.com/Jitesh117/social-proof-section-master)
+
+
+
+
